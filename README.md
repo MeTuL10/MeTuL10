@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I am Metul Prabhu
 I am passionate about AI and data analytics and have worked on multiple projects in these fields.<br>I am also experienced with DevOps and its technologies,
 
 
