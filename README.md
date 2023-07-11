@@ -22,6 +22,6 @@ I am passionate about AI and data analytics and have worked on multiple projects
 
 ###
 ---
-[![](https://visitcount.itsvg.in/api?id=MeTuL10&icon=2&color=0)](https://visitcount.itsvg.in)
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
