@@ -18,10 +18,9 @@ I am passionate about AI and data analytics and have worked on multiple projects
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MeTuL10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/MeTuL10/MeTuL10/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/MeTuL10/MeTuL10/blob/output/github-contribution-grid-snake.svg)
 
 ###
 ---
-  ![Snake animation](https://github.com/MeTuL10/MeTuL10/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
